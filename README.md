@@ -21,7 +21,7 @@ Curious by nature and passionate about solving problems with clean, efficient co
 - 🔭 Working on: **Personal Portfolio & Cool Side Projects**  
 - 🌱 Learning: **React, Node.js, and Backend Development**  
 - 💬 Ask me about: **Web Development, Frontend Design, and Ideas**  
-- 📫 Reach me at: [your-email@gmail.com](mailto:your-email@gmail.com)  
+- 📫 Reach me at: [sarbjotjassi777@gmail.com]  
 - ⚡ Fun fact: I turn ideas 💡 into interactive experiences 🌍  
 
 ---
@@ -41,13 +41,13 @@ Curious by nature and passionate about solving problems with clean, efficient co
 ### 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
+  <a href="(https://www.linkedin.com/in/sarbjot-jassi-2a7541395/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/sarbjotjassi" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:your-email@gmail.com" target="_blank">
+  <a href="mailto:sarbjotjassi777@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
