@@ -41,7 +41,7 @@ Curious by nature and passionate about solving problems with clean, efficient co
 ### 🌐 Connect With Me  
 
 <p align="center">
-  <a href="(https://www.linkedin.com/in/sarbjot-jassi-2a7541395/)" target="_blank">
+  <a href="https://www.linkedin.com/in/sarbjot-jassi-2a7541395/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/sarbjotjassi" target="_blank">
